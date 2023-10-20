@@ -1,0 +1,22 @@
+Information de votre Compte :
+Numero d'operation :1 , Le montant verser :600.0 DH  , Date d'operationMon Oct 09 04:42:18 GMT-08:00 2023
+Numero d'operation :5 , Le montant verser :700.0 DH  , Date d'operationMon Oct 09 04:42:18 GMT-08:00 2023
+Numero d'operation :9 , Le montant verser :300.0 DH  , Date d'operationMon Oct 09 04:42:18 GMT-08:00 2023
+Total de versement :1600.0 DH 
+Total de Retairait :0.0 DH  
+
+Information de votre Compte :
+Numero d'operation :2 , Le montant verser :300.0 DH  , Date d'operationMon Oct 09 04:42:18 GMT-08:00 2023
+Numero d'operation :3 , le montant retirer : 250.0 DH , date d'operation :Mon Oct 09 04:42:18 GMT-08:00 2023
+Numero d'operation :6 , Le montant verser :1000.0 DH  , Date d'operationMon Oct 09 04:42:18 GMT-08:00 2023
+Numero d'operation :7 , le montant retirer : 1100.0 DH , date d'operation :Mon Oct 09 04:42:18 GMT-08:00 2023
+Numero d'operation :10 , le montant retirer : 300.0 DH , date d'operation :Mon Oct 09 04:42:18 GMT-08:00 2023
+Total de versement :1300.0 DH 
+Total de Retairait :1650.0 DH  
+
+Information de votre Compte :
+Numero d'operation :4 , Le montant verser :1000.0 DH  , Date d'operationMon Oct 09 04:42:18 GMT-08:00 2023
+Numero d'operation :8 , Le montant verser :500.0 DH  , Date d'operationMon Oct 09 04:42:18 GMT-08:00 2023
+Total de versement :1500.0 DH 
+Total de Retairait :0.0 DH  
+
